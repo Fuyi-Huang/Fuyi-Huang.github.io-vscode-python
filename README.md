@@ -48,4 +48,6 @@ python现在主要有两个分支，一个是python2.7.x，另一个是3.5.x，�
 
 ![image](https://github.com/Fuyi-Huang/Fuyi-Huang.github.io-vscode-python/raw/master/pictures/capture4.JPG)
 
+![img](http://img05.tooopen.com/images/20140604/sy_62331342149.jpg)
+
 耶，撒花！
